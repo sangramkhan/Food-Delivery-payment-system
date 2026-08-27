@@ -36,3 +36,6 @@ Then, double-click `index.html` or drag it into your browser window.
 - **Responsive Design**: The application is fully responsive and works well on desktops, tablets, and mobile devices.
 - **Interactive Cart**: The cart counter updates dynamically when items are added.
 - **Modern UI/UX**: Clean layout with hover effects and smooth transitions to ensure a great user experience.
+
+## Status
+Project is active and ready for delivery.
