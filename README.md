@@ -14,7 +14,10 @@ This project provides a frontend interface for a food delivery platform, featuri
 ## Team Members
 
 This project was submitted by:
-- Sangram
+- Md. Sangram ID: 2022000010007
+- Nazma Akter ID: 2021200010030
+
+
 
 ## Technologies Used
 
@@ -38,4 +41,4 @@ Then, double-click `index.html` or drag it into your browser window.
 - **Modern UI/UX**: Clean layout with hover effects and smooth transitions to ensure a great user experience.
 
 ## Status
-Project is active and ready for delivery.
+Project is active.
